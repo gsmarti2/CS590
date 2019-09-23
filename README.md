@@ -1,2 +1,2 @@
 # CS590
-Programming_NC State class
+Programming and Data Science for Applied Research_NC State class
